@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 <!--
-**ShahanajPervin/ShahanajPervin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**ShahanajPervin
 
 Here are some ideas to get you started:
 
